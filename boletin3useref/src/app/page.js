@@ -20,7 +20,7 @@ export default function Home() {
       <h1>Ejercicio3</h1>
       <Ejercicio3/>
       <h1>Ejercicio4</h1>
-      
+      <Ejercicio4/>
       <h1>Ejercicio5</h1>
       <Ejercicio5/>
       <h1>Ejercicio6</h1>
